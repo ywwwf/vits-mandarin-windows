@@ -146,7 +146,3 @@ https://www.bilibili.com/video/BV16G4y1B7Ey
 https://www.bilibili.com/video/BV1Fe4y1r737
 *   零基础炼丹 - vits版补充：\
 https://www.bilibili.com/read/cv18357171
-
-
-## 恰饭
-生活不易，喵喵叹气。。。如果您喜欢该项目，请对该项目star一下表示支持吧~ <br> <img src="resources/恰饭512.png">
