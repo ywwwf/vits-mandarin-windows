@@ -6,7 +6,7 @@ if __name__ == '__main__':
   parser = argparse.ArgumentParser()
   parser.add_argument("--out_extension", default="cleaned")
   parser.add_argument("--text_index", default=1, type=int)
-  parser.add_argument("--filelists", nargs="+", default=["filelists/male_audio_text_train_filelist.txt", "filelists/male_audio_text_val_filelist.txt"])
+  parser.add_argument("--filelists", nargs="+", default=["filelists/lex_audio_text_train_filelist.txt", "filelists/lex_orig_audio_text_train_filelist.txt"])
   parser.add_argument("--text_cleaners", nargs="+", default=["chinese_cleaners"])
 
   args = parser.parse_args()
